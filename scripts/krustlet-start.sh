@@ -1,0 +1,2 @@
+bash <(curl https://raw.githubusercontent.com/krustlet/krustlet/main/scripts/bootstrap.sh)
+KUBECONFIG=~/.krustlet/config/kubeconfig krustlet-wasi --node-ip 127.17.0.1 --bootstrap-file ~/.krustlet/config/bootstrap.conf

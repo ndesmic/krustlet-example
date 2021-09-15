@@ -1,0 +1,1 @@
+rm -fdr ~/.krustlet

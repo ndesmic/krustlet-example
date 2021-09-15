@@ -1,0 +1,1 @@
+wasm-to-oci push build/optimized.wasm localhost:5000/as-test:latest
